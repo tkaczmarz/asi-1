@@ -66,7 +66,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 16. Formela, Bartosz 28.02
 17. Gniazdowski, Kamil 28.02
 18. [Kacprzak, Mateusz](https://github.com/implssv/MessageApp). [MessageApp](http://serene-spire-89656.herokuapp.com)
-19. Kaczmarz, Tomasz 21.02
+19. [Kaczmarz, Tomasz](https://github.com/tkaczmarz/asi) 21.02
 20. Kawa, Piotr 21.02
 21. [Kicki, Maksymilian] (https://github.com/mkicki/AsiApp) 21.02 28.02
 53. [Kot, Kamil](https://github.com/KotMeow/asi-frameworks)
